@@ -70,8 +70,8 @@ section{
     align-items: center;
 }
 .home-img img{
-    width: 23vw;
-    height: 50vh;
+    width: 24vw;
+    height: 58vh;
     border-radius: 50%;
     animation: floatImage 4s ease-in-out infinite; 
 }
